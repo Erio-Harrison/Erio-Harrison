@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erio-Harrison
 - 👀 I’m interested in System development
-- 🌱 I’m currently operating system and learning high performance computing
+- 🌱 I’m currently learning operating system and high performance computing
 - 💞️ I hope to be involved in the development of autonomous driving.
 
 <!---
