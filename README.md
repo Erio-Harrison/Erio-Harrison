@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Erio-Harrison
-- 👀 I’m interested in System development
-- 🌱 I’m currently learning operating system and high performance computing
-- 💞️ I hope to be involved in the development of autonomous driving.
+# Hi, I'm Erio Harrison 👋
+
+## About Me
+- **Interests**: System development
+- **Currently Learning**: Operating systems and high-performance computing
+- **Aspiration**: Involved in the development of autonomous driving
+
+## Contact
+- **Email**: [u7541840@gmail.com](mailto:u7541840@gmail.com)
 
 <!---
 Erio-Harrison/Erio-Harrison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
