@@ -2,7 +2,7 @@
 
 ## About Me
 - **Interests**: System development
-- **Currently Learning**: Operating systems and ROS2
+- **Currently Learning**: Operating system and ROS2
 - **Aspiration**: Involved in the development of robot and autonomous driving
 
 ## Contact
