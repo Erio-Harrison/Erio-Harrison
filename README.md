@@ -1,8 +1,8 @@
 # Hi, I'm Erio Harrison 👋
 
 ## About Me
-- **Interests**: System development
-- **Currently Learning**: Operating system and ROS2
+- **Interests**: System Development
+- **Currently Learning**: OS and ROS2
 - **Aspiration**: Involved in the development of robot and autonomous driving
 
 ## Contact
