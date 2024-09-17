@@ -2,8 +2,8 @@
 
 ## About Me
 - **Interests**: System development
-- **Currently Learning**: Operating systems and high-performance computing
-- **Aspiration**: Involved in the development of autonomous driving
+- **Currently Learning**: Operating systems and ROS2
+- **Aspiration**: Involved in the development of robot and autonomous driving
 
 ## Contact
 - **Email**: [u7541840@gmail.com](mailto:u7541840@gmail.com)
