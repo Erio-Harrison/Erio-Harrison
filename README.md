@@ -3,7 +3,7 @@
 ## About Me
 - **Interests**: System Development
 - **Currently Learning**: OS and ROS2
-- **Aspiration**:
+
 RUST is my favorite programming language, but I also often develop in C++. 
 
 Have a strong interest in robotics and medical related fields.
