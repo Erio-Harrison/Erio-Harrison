@@ -1,21 +1,19 @@
-## 🚀 Recently launched commercial projects
+## 🚀 Recently Launched Commercial Projects
 
-**AI Voice Applications**  
-- **[YOVO AI](https://yovo.ai/main)** – Next.js (frontend) + Rust (backend)
+**AI Voice Applications**
 
-An innovative application that seamlessly integrates STT, LLM, and TTS technologies to transform the high school counseling experience. Each year during the college entrance exam season, our team consistently rolls out new features to better support students and educators.
-  
-- **[IELTS Buddy](https://ielts-buddy-hui.netlify.app/)** – Next.js (frontend) + Rust (backend)
+* **[YOVO AI](https://yovo.ai/main)** – Next.js (frontend) + Rust (backend)
+  An innovative application that seamlessly integrates STT, LLM, and TTS technologies to transform the high school counseling experience. Each year during the college entrance exam season, our team consistently rolls out new features to better support students and educators.
 
-A real-time voice dialogue system based on WebSocket. Use Rust to build the backend service, integrating speech recognition, large language model and speech synthesis technology, providing users with a smooth English speaking practice experience, and realizing session persistence and reconnection functions.
+* **[IELTS Buddy](https://ielts-buddy-hui.netlify.app/)** – Next.js (frontend) + Rust (backend)
+  A real-time voice dialogue system powered by WebSocket. Built entirely in Rust on the backend, it integrates speech recognition, large language models, and speech synthesis to deliver a smooth English speaking practice experience with session persistence and reconnection capabilities.
 
-**AI Multimodal Applications**  
-- **[Plant Doctor](https://appstoreconnect.apple.com/apps/6745392140/distribution/info)** – React Native (frontend) + Rust (backend)
+> 💡 I've independently deployed a custom TTS (text-to-speech) service optimized for low latency and natural-sounding voices. This service is now in commercial use and will power several of my upcoming applications.
 
-A precision agricultural solution using computer vision and AI to identify plant diseases. Built with React Native and Rust/Actix Web backend that leverages advanced multimodal AI for image analysis. Features a comprehensive plant disease knowledge base offering confidence-scored diagnoses, symptom descriptions, and treatment recommendations. Currently available in TestFlight for testing.
+All of these products are now in commercial production.
+For an **invitation code** or **test account**, please email me at **[u7541840@gmail.com](mailto:u7541840@gmail.com)**.
 
-All of those products are now in commercial production. For an **invitation code** or **test account**, please email me at **[u7541840@gmail.com](mailto:u7541840@gmail.com)**.  
+## 🔜 Upcoming Projects (launching in two months)
 
-## 🔜 Upcoming Projects (launching in two months.)
-- **Multiple AI applications**
-- **Two blockchain projects**
+* **Multiple AI applications**
+* **Two blockchain projects**
