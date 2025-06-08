@@ -1,7 +1,5 @@
 ## 🚀 Recently Launched Commercial Projects
 
-**AI Voice Applications**
-
 * **[YOVO AI](https://yovo.ai/main)** – Next.js (frontend) + Rust (backend)
   An innovative application that seamlessly integrates STT, LLM, and TTS technologies to transform the high school counseling experience. Each year during the college entrance exam season, our team consistently rolls out new features to better support students and educators.
 
@@ -13,7 +11,10 @@
 All of these products are now in commercial production.
 For an **invitation code** or **test account**, please email me at **[u7541840@gmail.com](mailto:u7541840@gmail.com)**.
 
-## 🔜 Upcoming Projects (launching in two months)
+## 🔜 Upcoming Projects
 
-* **Multiple AI applications**
-* **Two blockchain projects**
+**AI Travel Companion App** *(Mobile App - Flutter frontend, Rust backend)*
+Key Features: Social travel community (posts/likes/comments), AI-generated travel guides, embedded navigation, and local guide mode (personalized recommendations).
+
+**AI English Learning App** *(Mobile App - Flutter frontend, Rust backend)*
+Key Features: Gamified lessons with self-hosted TTS (cost-effective & high-quality, and thanks to **Open Source Community**), interactive speaking practice, contextual vocabulary building, and grammar challenges.
