@@ -4,7 +4,7 @@
   An innovative application that seamlessly integrates ASR, LLM, and TTS technologies to transform the high school counseling experience. Each year during the college entrance exam season, our team consistently rolls out new features to better support students and educators.
 
 * **[IELTS Buddy](https://ielts-buddy-hui.netlify.app/)** – Next.js (frontend) + Rust (backend)
-  An educational platform system that integrates ASR+LLM+OCR+TTS. You can practice English with AI voice. Upload pictures and discuss the content by voice. Students can see the courses uploaded in the background. Student information and course management are implemented in the background system.
+  An AI-powered educational platform that combines ASR, LLM, OCR, and TTS technologies to enable interactive English speaking practice. Users can engage in real-time voice conversations with AI or discuss text extracted from uploaded images. The system also includes a backend for course management, allowing administrators to upload learning materials and track student progress.
 
 > 💡 I've independently deployed a custom TTS (text-to-speech) service optimized for low latency and natural-sounding voices. This service is now in commercial use and will power several of my upcoming applications.
 
