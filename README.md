@@ -10,11 +10,3 @@
 
 All of these products are now in commercial production.
 For an **invitation code** or **test account**, please email me at **[u7541840@gmail.com](mailto:u7541840@gmail.com)**.
-
-## 🔜 Upcoming Projects
-
-**AI Travel Companion App** *(Mobile App - Flutter frontend, Rust backend)*
-Key Features: Social travel community (posts/likes/comments), AI-generated travel guides, embedded navigation, and local guide mode (personalized recommendations).
-
-**AI English Learning App** *(Mobile App - Flutter frontend, Rust backend)*
-Key Features: Gamified lessons with self-hosted TTS (cost-effective & high-quality, and thanks to **Open Source Community**), interactive speaking practice, contextual vocabulary building, and grammar challenges.
