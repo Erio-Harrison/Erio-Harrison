@@ -1,4 +1,4 @@
-## Some Interesting Projects I Built Recently
+## ✨ Some Interesting Projects I Built Recently
 
 * **[YOVO AI](https://yovo.ai/main)** – An innovative application that seamlessly integrates ASR, LLM, and TTS technologies to transform the high school counseling experience. Each year during the college entrance exam season, our team consistently rolls out new features to better support students and educators.
 
