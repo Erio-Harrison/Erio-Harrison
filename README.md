@@ -1,4 +1,4 @@
-ANU CS graduate (2025 July).  
+ANU Bachelor of Computing (2025 July) 
 
 Engineer working on energy and distributed systems in Australia.
 
